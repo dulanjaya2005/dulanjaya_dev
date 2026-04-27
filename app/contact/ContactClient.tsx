@@ -8,8 +8,8 @@ const contactMethods = [
   {
     icon: Mail,
     label: "Email",
-    value: "dulanjaya@example.com",
-    href: "mailto:dulanjaya@example.com",
+    value: "dulanjayathathsara9@gmail.com",
+    href: "mailto:dulanjayathathsara9@gmail.com",
     color: "from-blue-500 to-cyan-500",
   },
   {
@@ -22,8 +22,8 @@ const contactMethods = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "dulanjaya-thathsara",
-    href: "https://linkedin.com",
+    value: "Dulanjaya Thathsara",
+    href: "https://www.linkedin.com/in/dulanjaya-thathsara-625bb12a9/",
     color: "from-blue-600 to-blue-800",
   },
   {

@@ -10,6 +10,7 @@ export interface Experience {
   description: string;
   technologies: string[];
   location: string;
+  serviceLetter?: string;
 }
 
 export interface Certificate {
@@ -58,6 +59,7 @@ export const experiences: Experience[] = [
       "Gained practical experience in software development and problem solving through various projects. Developed strong coding skills and collaborated with team members to deliver high-quality results.",
     technologies: ["React", "Next.js", "WordPress", "Node.js", "MySQL"],
     location: "Colombo, Sri Lanka",
+    serviceLetter: "/service-letters/Dp Education-Dulanjaya Thathsara.pdf",
   },
   {
     id: "3",

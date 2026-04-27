@@ -3,9 +3,9 @@ import { Github, Linkedin, Twitter, Mail, Code2 } from "lucide-react";
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/dulanjaya2005", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/dulanjaya", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/dulanjaya-thathsara-625bb12a9/", label: "LinkedIn" },
   { icon: Twitter, href: "https://twitter.com/dulanjaya2005", label: "Twitter" },
-  { icon: Mail, href: "mailto:dulanjaya@example.com", label: "Email" },
+  { icon: Mail, href: "mailto:dulanjayathathsara9@gmail.com", label: "Email" },
 ];
 
 const navLinks = [
