@@ -152,10 +152,11 @@ export default function AboutClient() {
               Who I Am
             </h3>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              I&apos;m Dulanjaya Thathsara, a passionate Software Engineer from Sri Lanka
-              with a love for building modern web applications. I specialize in React
-              and Next.js ecosystems and enjoy creating fast, accessible, and visually
-              appealing interfaces.
+            I'm a passionate Software Engineer based in Sri Lanka, specializing in modern web development. With over 3 years of hands-on experience, I build scalable, performant and visually compelling digital products.
+
+My expertise spans the full stack — from crafting pixel-perfect UIs with React and Next.js, to architecting robust backend systems with Node.js and MySQL.
+
+I care deeply about code quality, developer experience and building products that make a real difference to users.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               When I&apos;m not coding, I enjoy learning about new technologies, contributing

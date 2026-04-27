@@ -193,7 +193,7 @@ export default function HomePage() {
                   />
                 </Link>
                 <a
-                  href="public/dulanjaya_cv.pdf"
+                  href="/dulanjaya_cv.pdf"
                   download
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-xl border border-border hover:border-primary/50 hover:bg-primary/5 font-semibold text-sm transition-all duration-300"
                 >
