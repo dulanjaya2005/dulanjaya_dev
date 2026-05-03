@@ -14,7 +14,7 @@ import {
 import { VscVscode } from "react-icons/vsc";
 import { Server, Database, Wrench, Heart, Brain, Sparkles } from "lucide-react";
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
+
 const iconMap: Record<string, React.ComponentType<any>> = {
   html: SiHtml5, css: SiCss, javascript: SiJavascript,
   typescript: SiTypescript, react: SiReact, nextjs: SiNextdotjs,
@@ -103,10 +103,10 @@ function AISkillBar({ name, level, icon }: { name: string; level: number; icon: 
   );
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
+
 function CategoryCard({ title, icon: Icon, children, delay = 0, variant = "default" }: {
   title: string;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  
   icon: React.ComponentType<any>;
   children: React.ReactNode;
   delay?: number;
